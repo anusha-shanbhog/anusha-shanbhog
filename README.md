@@ -1,6 +1,6 @@
 Hi, I am Anusha Shanbhog, a student of Computer Science and Engineering,DSCE.
-I am interested in web development,cybersecurity and machine learning.
-- 🌱 I’m currently learning python and basics of cybersecurity.
+I am interested in web development and cybersecurity.
+- 🌱 I’m currently learning reactJS and basics of cybersecurity.
 - 💞️ I’m looking to collaborate on projects related to cybersecurity and web development.
 - 📫 You can reach me at anushapshanbhog@gmail.com
 
